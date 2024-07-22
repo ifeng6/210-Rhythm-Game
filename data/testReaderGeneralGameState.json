@@ -1,0 +1,21 @@
+{
+    "level progress": 5,
+    "scores": [
+        {
+            "level": 1,
+            "scores": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "level": 2,
+            "scores": [
+                3,
+                1,
+                2
+            ]
+        }
+    ]
+}
